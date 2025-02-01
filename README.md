@@ -1,5 +1,7 @@
 #  Elite Bike Store Analysis
 
+![Elite Bike Stores](https://github.com/user-attachments/assets/cc156fb6-0e27-4972-a8e6-0506b159644b)
+
 ## Table of Content
 
 -  [Project overview](#project-overview)
