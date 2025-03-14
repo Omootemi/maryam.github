@@ -10,4 +10,6 @@ This analysis shows the report generated from ABC financials dataset(Report) dur
 4. To Determine Total profit generated monthly,quarterly within year 2013/2014.
 
 ### Data Sources
-The dataset used for this analysis was derived from Dataset - Financials (Raw).xlxs download here https://1drv.ms/x/c/45ca2394ba60649c/EWvnYxly-eVNljPmbfSx9bMB3KH61U26GPsPLC1-BZ_IPQ?e=MKyqMn
+The dataset used for this analysis was derived from Dataset - Financials (Raw).xlxs [download here](https://1drv.ms/x/c/45ca2394ba60649c/EWvnYxly-eVNljPmbfSx9bMB3KH61U26GPsPLC1-BZ_IPQ?e=MKyqMn)
+
+The dataset consist of customer demographics ,Products and Sales.
