@@ -12,4 +12,12 @@ This analysis shows the report generated from ABC financials dataset(Report) dur
 ### Data Sources
 The dataset used for this analysis was derived from Dataset - Financials (Raw).xlxs [download here](https://1drv.ms/x/c/45ca2394ba60649c/EWvnYxly-eVNljPmbfSx9bMB3KH61U26GPsPLC1-BZ_IPQ?e=MKyqMn)
 
-The dataset consist of customer demographics ,Products and Sales.
+The dataset consist of Customer Demographics data,Product Data ,Sales Data.
+
+### Data Tools
+Tools used to analyze and derive insights from this datasets include: 
+1. Power BI [Download here](https://1drv.ms/b/c/45ca2394ba60649c/ETxj9ndbychDn_XyFDjlMqEBYWbX7gpprkFldl5j5SQXtg?e=1Qh3zk)
+2. Microsoft Excel  [Download here](https://1drv.ms/b/c/45ca2394ba60649c/EVA4jzlqW1dGgNLre9cGwyAB6dJ3OWRPzfexJm9MUVAIaQ?e=MVm1ql)
+
+### Exploiratory Data Analysis
+Several statistical analysis tools and dax formulars were used to derive 
