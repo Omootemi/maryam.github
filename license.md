@@ -20,4 +20,19 @@ Tools used to analyze and derive insights from this datasets include:
 2. Microsoft Excel  [Download here](https://1drv.ms/b/c/45ca2394ba60649c/EVA4jzlqW1dGgNLre9cGwyAB6dJ3OWRPzfexJm9MUVAIaQ?e=MVm1ql)
 
 ### Key Insights 
+#### 2013
+1. The highest Product(Paseo) is the highest selling product with the gross sales of $6million
+2. The highest sum of profits were made in October for 2013
+3. Germany had the highest number of sales $6million,followed by Canada where sales $5.17million,France $5.13million and USA $5.12million for both 2013 while the lowest number of sales were made from Mexico-$4.7million.
+4. Over $3.88 million Gross profits was generated in Year 2013.
 
+   
+#### 2014
+1. In 2014,Gross sales-$99.37million,Total sales(after discounts) -$92.31million,TotalProfit- $13.02million.
+2. Velo has the highest selling product among segments and countries with the gross sales of $6.1million followed by Paseo-$5.9million  while the lowest selling product is Carretera -$1million.
+![image](https://github.com/user-attachments/assets/81d1c331-71a7-418b-9e32-51094821319a)
+
+4. The highest amount of  profit was made in october -$1.78million.
+![2014 financial year](https://github.com/user-attachments/assets/a9ace8f6-aaa8-4b6e-85a5-9791cf6bf461)
+
+   
